@@ -22,7 +22,7 @@ This project is a LinkedIn scraper built using [Playwright](https://playwright.d
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/linkedin-scraper.git
+git clone https://github.com/yeshwants/linkedin_scrapper.git
 cd linkedin-scraper
 
 ### **Install Dependencies**
