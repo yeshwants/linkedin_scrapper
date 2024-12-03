@@ -35,4 +35,7 @@ playwright install
 
 
 ### **Usage**
+export LINKEDIN_PASSWORD=<password>
+export LINKEDIN_EMAIL=<email>
 python main.py
+
