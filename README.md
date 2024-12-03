@@ -8,8 +8,6 @@ This project is a LinkedIn scraper built using [Playwright](https://playwright.d
 - Search LinkedIn posts for specific keywords.
 - Extract user profile links from posts.
 - Supports headless and non-headless browser modes.
-- Includes Docker support for portability and reproducibility.
-- Optional local browser debugging (via X11 forwarding or VNC).
 
 ---
 
@@ -32,7 +30,6 @@ pip install -r requirements.txt
 
 ### **Playwright Setup**
 playwright install
-
 
 ### **Usage**
 export LINKEDIN_PASSWORD=<password>
